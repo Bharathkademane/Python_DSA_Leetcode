@@ -14,7 +14,7 @@ This repository contains solutions to various LeetCode problems that I have solv
     
 - **Problem 3: Remove Duplicate Elements**
   - [Link to the problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-  - Solution: [remove_element.py](./remove_duplicates.py)
+  - Solution: [remove_duplicates.py](./remove_duplicates.py)
 
 ## Usage
 
