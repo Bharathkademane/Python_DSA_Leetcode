@@ -11,6 +11,10 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 2: Remove Element**
   - [Link to the problem](https://leetcode.com/problems/remove-element/)
   - Solution: [remove_element.py](./remove_element.py)
+    
+- **Problem 2: Remove Duplicate Elements**
+  - [Link to the problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+  - Solution: [remove_element.py](./remove_duplicates.py)
 
 ## Usage
 
