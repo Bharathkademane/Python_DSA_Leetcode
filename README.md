@@ -19,6 +19,10 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 4: Apply Operations to an Array**
   - [Link to the problem](https://leetcode.com/problems/apply-operations-to-an-array/)
   - Solution: [array_operations.py](./array_operations.py)
+    
+- **Problem 5: Move Zeroes**
+  - [Link to the problem](https://leetcode.com/problems/move-zeroes/)
+  - Solution: [move_zeroes.py](./move_zeroes.py)
 
 ## Usage
 
