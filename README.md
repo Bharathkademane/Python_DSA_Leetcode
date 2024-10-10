@@ -23,7 +23,9 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 5: Move Zeroes**
   - [Link to the problem](https://leetcode.com/problems/move-zeroes/)
   - Solution: [move_zeroes.py](./move_zeroes.py)
-
+- **Problem 6: Majority Element**
+  - [Link to the problem](https://leetcode.com/problems/majority-element/)
+  - Solution: [majority_ele.py](./majority_ele.py)
 ## Usage
 
 - Clone this repository:
