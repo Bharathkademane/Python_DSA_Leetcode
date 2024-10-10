@@ -20,4 +20,4 @@ This repository contains solutions to various LeetCode problems that I have solv
 
 - Clone this repository:
   ```bash
-  git clone https://github.com/your-username/your-repo-name.git
+  git clone https://github.com/BharathKademane/Python_DSA_Leetcode.git
