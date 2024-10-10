@@ -12,7 +12,7 @@ This repository contains solutions to various LeetCode problems that I have solv
   - [Link to the problem](https://leetcode.com/problems/remove-element/)
   - Solution: [remove_element.py](./remove_element.py)
     
-- **Problem 2: Remove Duplicate Elements**
+- **Problem 3: Remove Duplicate Elements**
   - [Link to the problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - Solution: [remove_element.py](./remove_duplicates.py)
 
