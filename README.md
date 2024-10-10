@@ -16,7 +16,7 @@ This repository contains solutions to various LeetCode problems that I have solv
   - [Link to the problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - Solution: [remove_duplicates.py](./remove_duplicates.py)
  
-- **Problem 3: Apply Operations to an Array**
+- **Problem 4: Apply Operations to an Array**
   - [Link to the problem](https://leetcode.com/problems/apply-operations-to-an-array/)
   - Solution: [array_operations.py](./array_operations.py)
 
