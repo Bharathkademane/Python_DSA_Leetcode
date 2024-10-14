@@ -26,6 +26,10 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 6: Majority Element**
   - [Link to the problem](https://leetcode.com/problems/majority-element/)
   - Solution: [majority_ele.py](./majority_ele.py)
+- **Problem 7: Best Time to Buy and Sell Stock**
+  - [Link to the problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - Solution: [stock_buy.py](./stock_buy.py)
+
 ## Usage
 
 - Clone this repository:
