@@ -29,6 +29,9 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 7: Best Time to Buy and Sell Stock**
   - [Link to the problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - Solution: [stock_buy.py](./stock_buy.py)
+- **Problem 8: most-frequent-even-element**
+  - [Link to the problem](https://leetcode.com/problems/most-frequent-even-element/)
+  - Solution: [most-frequent-even-element.py](./most-frequent-even-element.py)
 
 ## Usage
 
