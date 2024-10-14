@@ -48,6 +48,9 @@ This repository contains solutions to various LeetCode problems that I have solv
   - [Link to the problem](https://leetcode.com/problems/first-bad-version/)
   - Solution: [first-bad-version.py](./first-bad-version.py)
 
+- **Problem 13: Guess Number Higher or Lower**
+  - [Link to the problem](https://leetcode.com/problems/guess-number-higher-or-lower/)
+  - Solution: [guess-number-higher-or-lower.py](./guess-number-higher-or-lower.py)
 
 ## Usage
 
