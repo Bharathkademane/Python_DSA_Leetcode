@@ -32,7 +32,7 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 8: most-frequent-even-element**
   - [Link to the problem](https://leetcode.com/problems/most-frequent-even-element/)
   - Solution: [most-frequent-even-element.py](./most-frequent-even-element.py)
-- **Problem 8: number-of-employees-who-met-the-target**
+- **Problem 9: number-of-employees-who-met-the-target**
   - [Link to the problem](https://leetcode.com/problems/number-of-employees-who-met-the-target/)
   - Solution: [number-of-employees-who-met-the-target.py](./number-of-employees-who-met-the-target.py)
 
