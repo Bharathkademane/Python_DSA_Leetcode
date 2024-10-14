@@ -43,6 +43,10 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 11: search-insert-position(Binary search)**
   - [Link to the problem](https://leetcode.com/problems/search-insert-position/)
   - Solution: [search-insert-position.py](./search-insert-position.py)
+ 
+- **Problem 12: first-bad-version**
+  - [Link to the problem](https://leetcode.com/problems/first-bad-version/)
+  - Solution: [first-bad-version.py](./first-bad-version.py)
 
 
 ## Usage
