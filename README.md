@@ -39,6 +39,10 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 10: number-of-employees-who-met-the-target**
   - [Link to the problem](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/)
   - Solution: [minimum-operations-to-exceed-threshold-value-i.py](./minimum-operations-to-exceed-threshold-value-i.py)
+    
+- **Problem 11: search-insert-position(Binary search)**
+  - [Link to the problem](https://leetcode.com/problems/search-insert-position/)
+  - Solution: [search-insert-position.py](./search-insert-position.py)
 
 
 ## Usage
