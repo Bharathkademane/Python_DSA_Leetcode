@@ -36,7 +36,7 @@ This repository contains solutions to various LeetCode problems that I have solv
   - [Link to the problem](https://leetcode.com/problems/number-of-employees-who-met-the-target/)
   - Solution: [number-of-employees-who-met-the-target.py](./number-of-employees-who-met-the-target.py)
  
-- **Problem 10: number-of-employees-who-met-the-target**
+- **Problem 10: minimum-operations-to-exceed-threshold-value-i**
   - [Link to the problem](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/)
   - Solution: [minimum-operations-to-exceed-threshold-value-i.py](./minimum-operations-to-exceed-threshold-value-i.py)
     
