@@ -51,6 +51,10 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 13: Guess Number Higher or Lower**
   - [Link to the problem](https://leetcode.com/problems/guess-number-higher-or-lower/)
   - Solution: [guess-number-higher-or-lower.py](./guess-number-higher-or-lower.py)
+  
+- **Problem 14: squares of a sorted array**
+  - [Link to the problem](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  - Solution: [squares-of-a-sorted-array.py](./squares-of-a-sorted-array.py)
 
 ## Usage
 
