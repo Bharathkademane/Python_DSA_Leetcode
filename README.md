@@ -56,6 +56,10 @@ This repository contains solutions to various LeetCode problems that I have solv
   - [Link to the problem](https://leetcode.com/problems/squares-of-a-sorted-array/)
   - Solution: [squares-of-a-sorted-array.py](./squares-of-a-sorted-array.py)
 
+- **Problem 15: Roman to Integer**
+  - [Link to the problem](https://leetcode.com/problems/roman-to-integer/)
+  - Solution: [roman-to-integer.py](./roman-to-integer.py)
+
 ## Usage
 
 - Clone this repository:
