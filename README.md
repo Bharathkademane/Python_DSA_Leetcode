@@ -59,6 +59,10 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 15: Roman to Integer**
   - [Link to the problem](https://leetcode.com/problems/roman-to-integer/)
   - Solution: [roman-to-integer.py](./roman-to-integer.py)
+    
+- **Problem 16: Length of last word**
+  - [Link to the problem](https://leetcode.com/problems/length-of-last-word/)
+  - Solution: [length-of-last-word.py](./length-of-last-word.py)
 
 ## Usage
 
