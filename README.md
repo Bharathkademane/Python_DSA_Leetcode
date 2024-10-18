@@ -63,7 +63,9 @@ This repository contains solutions to various LeetCode problems that I have solv
 - **Problem 16: Length of last word**
   - [Link to the problem](https://leetcode.com/problems/length-of-last-word/)
   - Solution: [length-of-last-word.py](./length-of-last-word.py)
-
+- **Problem 17: Longest Common Prefix**
+  - [Link to the problem](https://leetcode.com/problems/longest-common-prefix/)
+  - Solution: [longest-common-prefix/.py](./longest-common-prefix.py)
 ## Usage
 
 - Clone this repository:
